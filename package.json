@@ -1,7 +1,7 @@
 {
-  "name": "@p-stream/providers",
-  "version": "3.1.0",
-  "description": "Package that contains all the providers of p-stream",
+  "name": "@vlop/providers",
+  "version": "1.0.7",
+  "description": "Package that contains all the providers of vlop",
   "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -22,18 +22,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p-stream/providers.git"
+    "url": "git+https://github.com/mohameodo/vlop-new-providersas932gg.git"
   },
   "keywords": [
-    "p-stream",
+    "vlop",
     "providers"
   ],
-  "author": "p-stream",
+  "author": "vlop",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/p-stream/providers/issues"
+    "url": "https://github.com/mohameodo/vlop-new-providersas932gg/issues"
   },
-  "homepage": "https://p-stream.github.io/providers/",
   "scripts": {
     "build": "vite build && tsc --noEmit",
     "cli": "vite-node ./src/dev-cli/index.ts",
